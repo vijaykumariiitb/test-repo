@@ -1,4 +1,4 @@
 # test-repo
-test repo for learning all possible scenarios with github
+test repo for learning conflict changes possible scenarios with github
 master commit 1
 # master commit 2
